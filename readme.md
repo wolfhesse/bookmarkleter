@@ -6,6 +6,7 @@
 You have JavaScript. You need a [bookmarklet][bookmarklet]. This does that.
 
 **http://chriszarate.github.io/bookmarkleter**
+**http://wolfhesse.github.io/bookmarkleter**
 
 ### Options
 
